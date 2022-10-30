@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nhophucrious.
 - 👀 I’m interested in C++, Python, Dart, and software development on Mobile, specifically iOS and cross-platform with Flutter.
-- 🌱 I’m about to be a third year CS Student in Vietnam!
+- 🌱 I’m a third year CS Student in Vietnam!
 - 💞️ I’m looking to work more on Dart and Flutter, as well as Swift for native development.
+- 🕸️ I'm currently working on a website using Flask and SQLite.
 - 📫 You can reach me through nngiaphuc0101@gmail.com!
 
 <!---
