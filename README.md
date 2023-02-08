@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Python, Dart, and software development on Mobile, specifically iOS and cross-platform with Flutter.
 - 🌱 I’m a third year CS Student in Vietnam!
 - 💞️ I’m looking to work more on Dart and Flutter, as well as Swift for native development.
-- 🕸️ I'm currently working on a website using Flask and SQLite.
+- 🕸️ I'm currently working on a SwiftUI project for school but is potentially profitable!
 - 📫 You can reach me through nngiaphuc0101@gmail.com!
 
 <!---
