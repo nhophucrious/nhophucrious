@@ -4,9 +4,15 @@
 - 🇻🇳 I’m a third year CS Student in Vietnam.
 - 📫 You can reach me through nngiaphuc0101@gmail.com!
 
+## Skills
+
+- Programming Languages: Python, Dart, JavaScript, C++, Swift
+- Web Development: HTML, CSS, JavaScript, Flask
+- Database Management: MySQL, Firebase Firestore
+
 ## Projects
 Some of the projects that I have done ❤️
-- [Flutter SQLite note app](https://github.com/yourusername/project1](https://github.com/nhophucrious/flutter-sqlite-note-app)
+- [Flutter SQLite note app](https://github.com/nhophucrious/flutter-sqlite-note-app)
 - [Parallel Corpora for Bahnaric and Vietnamese](https://github.com/nhophucrious/programming-integration-project-221)
 - [Quarantine Camp Dashboard](https://github.com/nhophucrious/database-systems-hk221)
 <!---
