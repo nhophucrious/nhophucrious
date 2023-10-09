@@ -1,8 +1,8 @@
 # About Me 👀
-- 👋 Hi, I’m @nhophucrious. I also go by Phúc Nguyễn or Gerard.
-- 👀 I’m interested in **mobile software development in iOS**.
-- 🇻🇳 I’m a senior CS student in Vietnam.
-- 📫 Reach me through nngiaphuc0101@gmail.com!
+- 👋 Hi, I’m @nhophucrious.
+- 👀 I’m interested in **iOS development**.
+- 🇻🇳 I’m a senior Computer Science student in Vietnam.
+- 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
 
 # Skills 🔧
 - 🧑‍💻 Programming languages: Python, Dart, JavaScript, Swift, Objective-C.
