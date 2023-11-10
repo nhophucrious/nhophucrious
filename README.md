@@ -16,7 +16,7 @@
 # Projects 💻
 Some of the projects that I have done.
 - [Flutter SQLite note app](https://github.com/nhophucrious/flutter-sqlite-note-app)
-- [Flutter Smart Home](https://github.com/nhophucrious/programming-integration-project-221(https://github.com/nhophucrious/multidisciplinary_smarthome))
+- [Flutter Smart Home](https://github.com/nhophucrious/multidisciplinary_smarthome)
 - [Quarantine Camp Dashboard](https://github.com/nhophucrious/database-systems-hk221)
 <!---
 nhophucrious/nhophucrious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
