@@ -12,12 +12,12 @@
 
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
+- April 2024 - Now: **Mobile Application Developer Intern** @ Ronin Consultancy | TsukiAI.
 
 # Projects 💻
 Some of the projects that I have done.
 - [Flutter SQLite note app](https://github.com/nhophucrious/flutter-sqlite-note-app)
 - [Flutter Smart Home](https://github.com/nhophucrious/multidisciplinary_smarthome)
-- [Quarantine Camp Dashboard](https://github.com/nhophucrious/database-systems-hk221)
 <!---
 nhophucrious/nhophucrious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
