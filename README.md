@@ -1,7 +1,7 @@
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
 - 👀 I’m interested in **iOS development**.
-- 🇻🇳 I’m a senior Computer Science student in Vietnam.
+- 🇻🇳 I'm set to graduate as a Computer Science student in Vietnam soon!
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
 
 # Skills 🔧
@@ -12,7 +12,7 @@
 
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
-- April 2024 - Now: **Mobile Application Developer Intern** @ Ronin Consultancy | TsukiAI.
+- April 2024 - July 2024: **Mobile Application Developer Intern** @ Ronin Consultancy | TsukiAI.
 
 # Projects 💻
 Some of the projects that I have done.
