@@ -1,6 +1,6 @@
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
-- 👀 I’m interested in **iOS development**.
+- 👀 I’m interested in **iOS Development** and **Mobile Development** in general.
 - 🇻🇳 I'm set to graduate as a Computer Science student in Vietnam soon!
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
 
@@ -13,6 +13,7 @@
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
 - April 2024 - July 2024: **Mobile Application Developer Intern** @ Ronin Consultancy | TsukiAI.
+- July 2024 - Now: **Junior Flutter Developer** @ Con Cung Joint Stock Company (concung.com).
 
 # Projects 💻
 Some of the projects that I have done.
