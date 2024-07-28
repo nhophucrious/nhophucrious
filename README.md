@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=nhophucrious)
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
 - 👀 I’m interested in **iOS Development** and **Mobile Development** in general.
