@@ -1,9 +1,9 @@
 Ah, you have increased this count just now: ![](https://komarev.com/ghpvc/?username=nhophucrious)
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
-- 👀 I’m interested in **iOS Development** and **Mobile Development** in general.
-- 🇻🇳 I'm set to graduate as a Computer Science student in Vietnam soon!
+- 👀 I'm working as a **Junior Mobile Developer**.
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
+- _I'll try to commit more. I wish BitBucket synced here lol_
 
 # Skills 🔧
 - 🧑‍💻 Programming languages: Python, Dart, JavaScript, Swift, Objective-C.
