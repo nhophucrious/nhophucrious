@@ -3,13 +3,11 @@ Ah, you have increased this count just now: ![](https://komarev.com/ghpvc/?usern
 - 👋 Hi, I’m @nhophucrious.
 - 👀 I'm working as a **Junior Mobile Developer**.
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
-- _I'll try to commit more. I wish BitBucket synced here lol_
 
 # Skills 🔧
 - 🧑‍💻 Programming languages: Python, Dart, JavaScript, Swift, Objective-C.
 - 📱 Mobile development: iOS (UIKit, SwiftUI), Cross-platform (Flutter).
 - 🕸️ Web development: HTML, CSS, JavaScript, Flask.
-- 🏠 Database Management: MySQL, Firebase Firestore.
 
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
