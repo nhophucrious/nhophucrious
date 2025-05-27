@@ -1,13 +1,24 @@
-Ah, you have increased this count just now: ![](https://komarev.com/ghpvc/?username=nhophucrious)
+_Ah, you have increased this count just now: ![](https://komarev.com/ghpvc/?username=nhophucrious)_
+
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
-- 👀 I'm working as a **Junior Mobile Developer**.
+- 👀 I'm working as a **Mobile Developer** at Con Cung Corporation.
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
 
 # Skills 🔧
-- 🧑‍💻 Programming languages: Python, Dart, JavaScript, Swift, Objective-C.
+- 🧑‍💻 Programming languages: Dart, Swift, Python, JavaScript.
 - 📱 Mobile development: iOS (UIKit, SwiftUI), Cross-platform (Flutter).
 - 🕸️ Web development: HTML, CSS, JavaScript, Flask.
+
+# Flutter stuff
+I've worked on e-commerce applications, video-playing applications using HLS, mini-apps that talk to native platforms, and IoT applications.
+- Native interop: Method channels.
+- State management: Provider, BLoC, GetX.
+- Local storage: SharedPreferences, Hive, SQLite.
+- Networking: Dio, Retrofit.
+
+# iOS Stuff
+- UIKit (Programmatic), SwiftUI, MapKit, CoreData.
 
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
