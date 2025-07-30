@@ -1,6 +1,3 @@
-_Ah, you have increased this count just now: ![](https://komarev.com/ghpvc/?username=nhophucrious)_
-I really wish BitBucket synced here.
-
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
 - 👀 I'm working as a **Mobile Developer** at Con Cung Corporation.
@@ -12,7 +9,7 @@ I really wish BitBucket synced here.
 - 🕸️ Web development: HTML, CSS, JavaScript, Flask.
 
 # Flutter stuff
-I've worked on e-commerce applications, video-playing applications using HLS, mini-apps that talk to native platforms, and IoT applications.
+I've worked on e-commerce applications, video-playing applications, mini-apps that talk to native platforms, and IoT applications.
 - Native interop: Method channels.
 - State management: Provider, BLoC, GetX.
 - Local storage: SharedPreferences, Hive, SQLite.
