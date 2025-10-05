@@ -1,6 +1,6 @@
 # About Me 👀
 - 👋 Hi, I’m @nhophucrious.
-- 👀 I'm working as a **Mobile Developer** at Con Cung Corporation.
+- 👀 I'm working as a **Mobile Developer** at YQueue Singapore.
 - 📫 Reach me through [nngiaphuc0101@gmail.com](mailto:nngiaphuc0101@gmail.com)!
 
 # Skills 🔧
@@ -20,7 +20,8 @@ I've worked on e-commerce applications, video-playing applications, mini-apps th
 
 # Experience 👨‍💼
 - May 2023 - Aug 2023: **iOS Developer Intern** @ GeoComply Vietnam.
-- July 2024 - Now: **Flutter Developer** @ Con Cung Joint Stock Company (concung.com).
+- July 2024 - July 2025: **Mobile Developer** @ Con Cung Joint Stock Company (concung.com).
+- August 2025 - Present: **Mobile Developer** @ YQueue Singapore.
 <!---
 nhophucrious/nhophucrious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
